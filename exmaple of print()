@@ -1,0 +1,21 @@
+package Java;
+
+public class Example2 {
+	//Using print()
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int age=21;
+int weight=54;
+int height=171;
+System.out.print("age is :"+age);
+System.out.print(" ");
+System.out.print("weight is :"+weight);
+System.out.print(" ");
+System.out.print("Height is: "+height);
+
+
+
+	}
+
+}
