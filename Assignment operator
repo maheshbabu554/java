@@ -1,0 +1,28 @@
+package Java;
+
+public class AssignmentOperaator {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int x=5;
+		x+=3;
+	
+		String name="Mahesh";
+		name+="Babu";
+				
+		System.out.println(x);
+		x-=3;
+
+		System.out.println(x);
+		x*=5;
+
+		System.out.println(x);
+		x/=5;
+
+		System.out.println(x);
+		System.out.println(name);
+
+
+	}
+
+}
