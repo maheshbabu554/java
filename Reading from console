@@ -1,0 +1,16 @@
+package Java;
+import java.util.Scanner;
+
+public class Readingconsole {
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method 
+		Scanner input =new Scanner(System.in);
+		System.out.print("enter an interger :");
+		
+		int num= input.nextInt();
+		System.out.println("you enter:"+num);
+	}
+
+}
