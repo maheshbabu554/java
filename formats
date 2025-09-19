@@ -1,0 +1,15 @@
+package Java;
+
+public class Formating {
+//using printF()
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int age=21;
+		String name="mahesh";
+		System.out.printf("My name is  %s and i am %d years old ",name,age);
+	
+
+
+	}
+
+}
