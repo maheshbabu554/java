@@ -1,0 +1,23 @@
+package Java;
+
+public class DataTypes {
+//the variable Intiallization
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		byte age=25;
+		short year=2025;
+		int popultaion=1000000;
+		long distance=1000000000;
+		float weight=54.6f;
+		double height=171.5;
+		char grade='a';
+		char grade2=65;
+	boolean ture = false;
+	boolean isStudent=ture;
+		
+		System.out.println(isStudent);
+		
+
+	}
+
+}
