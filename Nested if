@@ -1,0 +1,24 @@
+package Java;
+
+public class NestedIf {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int age=20;
+if(age>=18) {
+	if(age>=23) {
+	System.out.println("your illegal to drink alochol");
+}
+	else {
+		System.out.println("you can vote , but not drinking alochol");
+
+	}
+}
+	else {
+		System.out.println("You are not old enough to or Drink alchol");
+
+	}
+}
+	}
+
+
